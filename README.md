@@ -1,19 +1,25 @@
 
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=false&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer;Patrik+Thormodsen" alt="Patrik Thormodsen" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer;Patrik+Thormodsen" alt="Patrik Thormodsen" />
 
-**Computer Engineering student at HVL · Bergen, Norway**
+### About me
 
-I build full-stack applications, work with databases and APIs, and deploy my projects on my own infrastructure.
+I'm a Computer Engineering student at HVL in Bergen, Norway, specializing in software development and architecture.
 
-[**Portfolio**](https://portfolio.patreek.no) · [**Projects**](#featured-projects)
+I spend a lot of my free time coding and working on personal projects. I mostly work with Java, Spring Boot, React and TypeScript, and I like being involved in everything from building the application to getting it up and running.
 
-</div>
+I've also gotten pretty into self-hosting over the past year. What started as experimenting with a few servers has turned into a homelab with Proxmox, Docker and Kubernetes.
+
+When I'm not sitting in front of a computer, I enjoy going to the gym, playing padel and hanging out with friends. I'm also into gaming, although that usually means spending even more time in front of a screen.
+
+[**Portfolio**](https://portfolio.patreek.no)
+
 
 ---
 
-### Tech stack
+### Tech Stack
 
 <div align="center">
 
@@ -25,7 +31,6 @@ I build full-stack applications, work with databases and APIs, and deploy my pro
 
 <img src="https://skillicons.dev/icons?i=spring,react,fastapi,postgres&theme=dark" alt="Spring Boot, React, FastAPI, PostgreSQL" height="44" />
 
-
 **Infrastructure & Tools**
 
 <p>
@@ -34,10 +39,9 @@ I build full-stack applications, work with databases and APIs, and deploy my pro
   <img src="https://skillicons.dev/icons?i=cloudflare,git&theme=dark" height="44" alt="Cloudflare, Git" />
 </p>
 
-
 </div>
 
-### Featured projects
+### Featured Projects
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
@@ -52,25 +56,25 @@ I run a small homelab with three nodes named **luffy**, **zoro**, and **sanji**,
 
 My setup includes **Proxmox VE**, **k3s**, **Docker**, **Cloudflare Tunnels**, **Tailscale**, **Pi-hole**, and **Uptime Kuma**. I also use it to deploy and self-host several of my own applications.
 
-### GitHub activity
+### GitHub Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide_rank=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
-</picture>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&include_all_commits=true&theme=github_dark"
+  alt="GitHub Stats"
+  height="165"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark"
+  alt="Most Used Languages"
+  height="165"
+/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=default" alt="Most used languages" height="165" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake.svg" alt="GitHub contribution snake" />
-</picture>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pthormodsen&theme=github-dark&hide_border=true)
+<br><br>
+<img
+  src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
