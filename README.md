@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer;Patrik+Thormodsen" alt="Patrik Thormodsen" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer" alt="Patrik Thormodsen" />
 
 ### About me
 
-I'm a Computer Engineering student at HVL in Bergen, Norway, specializing in software development and architecture.
+I'm a Computer Engineering student at HVL in Bergen, Norway, and I spend a lot of my free time coding and working on personal projects.
 
-I spend a lot of my free time coding and working on personal projects. I mostly work with Java, Spring Boot, React and TypeScript, and I like being involved in everything from building the application to getting it up and running.
+I mostly work with Java, Spring Boot, React and TypeScript, and I like being involved in everything from building the application to getting it up and running.
 
 I've also gotten pretty into self-hosting over the past year. What started as experimenting with a few servers has turned into a homelab with Proxmox, Docker and Kubernetes.
 
@@ -19,27 +19,51 @@ When I'm not sitting in front of a computer, I enjoy going to the gym, playing p
 
 ---
 
+
 ### Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp&theme=dark" alt="Java, TypeScript, JavaScript, Python, C++" height="44" />
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cts%2Cjs%2Cpy%2Ccpp%2Chaskell&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp,haskell&theme=dark" alt="Java, TypeScript, JavaScript, Python, C++, Haskell" height="44" />
+</picture>
+
+<br><br>
 
 **Frameworks & Databases**
 
-<img src="https://skillicons.dev/icons?i=spring,react,fastapi,postgres&theme=dark" alt="Spring Boot, React, FastAPI, PostgreSQL" height="44" />
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring%2Creact%2Cfastapi%2Cpostgres%2Ctailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=spring,react,fastapi,postgres,tailwind&theme=dark" alt="Spring Boot, React, FastAPI, PostgreSQL, Tailwind CSS" height="44" />
+</picture>
+
+<br><br>
 
 **Infrastructure & Tools**
 
+<br>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark" height="44" alt="Linux, Docker, Kubernetes" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cdocker%2Ckubernetes&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark" alt="Linux, Docker, Kubernetes" height="44" />
+  </picture>
   <img src="https://cdn.simpleicons.org/proxmox/E57000" height="44" alt="Proxmox VE" />
-  <img src="https://skillicons.dev/icons?i=cloudflare,git&theme=dark" height="44" alt="Cloudflare, Git" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cgit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,git&theme=dark" alt="Cloudflare, Git" height="44" />
+  </picture>
 </p>
 
 </div>
+
 
 ### Featured Projects
 
@@ -52,29 +76,28 @@ When I'm not sitting in front of a computer, I enjoy going to the gym, playing p
 
 ### Homelab
 
-I run a small homelab with three nodes named **luffy**, **zoro**, and **sanji**, where I experiment with virtualization, containers, Kubernetes, and networking.
+I run a small homelab with three nodes named **luffy**, **zoro**, and **sanji**, where I experiment with infrastructure and self-host several of my own applications.
 
-My setup includes **Proxmox VE**, **k3s**, **Docker**, **Cloudflare Tunnels**, **Tailscale**, **Pi-hole**, and **Uptime Kuma**. I also use it to deploy and self-host several of my own applications.
+It runs on **Proxmox VE**, with a **k3s** cluster (control plane and worker nodes), **Docker**, and my own network services: **Cloudflare Tunnels**, **Tailscale**, **Pi-hole**, and **Uptime Kuma** for monitoring.
 
 ### GitHub Activity
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&include_all_commits=true&theme=github_dark"
-  alt="GitHub Stats"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark"
-  alt="Most Used Languages"
-  height="165"
-/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars%2Cissues&hide_rank=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&theme=github_dark" alt="GitHub Stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook%2Ccss%2Chtml&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark" alt="Most Used Languages" height="165" />
+</picture>
 
 <br><br>
-<img
-  src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</picture>
 
 </div>
