@@ -49,8 +49,8 @@ Outside of university, I run my own homelab, where I experiment with Linux, virt
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [SeatSense](https://github.com/pthormodsen) | IoT-based seat occupancy monitoring for university study spaces | ESP32, React, TypeScript |
-| [QuizApp](https://github.com/pthormodsen/QuizApp) | Full-stack study application | Spring Boot, React |
+| [SeatSense](https://seatsense.patreek.no) | IoT-based seat occupancy monitoring for university study spaces | ESP32, React, TypeScript |
+| [QuizApp](https://quiz.patreek.no) | Full-stack study application | Spring Boot, React |
 | [Phishing URL Detector](https://phishing.patreek.no) | Machine learning application for detecting suspicious URLs | Python, scikit-learn, FastAPI |
 | [Chess](https://chess.patreek.no) | Java chess application with Stockfish integration | Java, Docker |
 
