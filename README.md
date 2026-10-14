@@ -1,81 +1,76 @@
 
 <div align="center">
 
-# Patrik Thormodsen
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=false&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer;Patrik+Thormodsen" alt="Patrik Thormodsen" />
 
-**Software Engineering Student | Full-Stack Development | Self-Hosting**
+**Computer Engineering student at HVL · Bergen, Norway**
 
-Building web applications, experimenting with infrastructure, and learning how things work behind the scenes.
+I build full-stack applications, work with databases and APIs, and deploy my projects on my own infrastructure.
 
-[Portfolio](https://portfolio.patreek.no) · [GitHub](https://github.com/pthormodsen)
+[**Portfolio**](https://portfolio.patreek.no) · [**Projects**](#featured-projects)
 
 </div>
 
 ---
 
-### About me
-
-I'm a computer engineering student at Western Norway University of Applied Sciences (HVL), based in Bergen, Norway.
-
-I enjoy building applications from the ground up, from backend architecture and databases to frontend interfaces and deployment.
-
-Outside of university, I run my own homelab, where I experiment with Linux, virtualization, containers and Kubernetes.
-
 ### Tech stack
+
+<div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp&theme=dark" alt="Java, TypeScript, JavaScript, Python, C++" height="44" />
 
 **Frameworks & Databases**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,react,fastapi,postgres&theme=dark" alt="Spring Boot, React, FastAPI, PostgreSQL" height="44" />
+
 
 **Infrastructure & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark" height="44" alt="Linux, Docker, Kubernetes" />
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" height="44" alt="Proxmox VE" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,git&theme=dark" height="44" alt="Cloudflare, Git" />
+</p>
+
+
+</div>
 
 ### Featured projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [SeatSense](https://seatsense.patreek.no) | IoT-based seat occupancy monitoring for university study spaces | ESP32, React, TypeScript |
-| [QuizApp](https://quiz.patreek.no) | Full-stack study application | Spring Boot, React |
-| [Phishing URL Detector](https://phishing.patreek.no) | Machine learning application for detecting suspicious URLs | Python, scikit-learn, FastAPI |
-| [Chess](https://chess.patreek.no) | Java chess application with Stockfish integration | Java, Docker |
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **SeatSense** | IoT-based seat occupancy monitoring using ESP32 sensors and React. | [Demo](https://seatsense.patreek.no) |
+| **QuizApp** | Full-stack study application built with Spring Boot and React. | [Demo](https://quiz.patreek.no) · [Code](https://github.com/pthormodsen/QuizApp) |
+| **Phishing URL Detector** | Machine learning URL classifier with FastAPI and a React frontend. | [Demo](https://phishing.patreek.no) · [Code](https://github.com/pthormodsen/PhishingURL) |
+| **Chess** | Java chess application with Stockfish integration. | [Demo](https://chess.patreek.no) · [Code](https://github.com/pthormodsen/Chess) |
 
 ### Homelab
 
-I maintain a self-hosted environment for deploying my applications and experimenting with infrastructure.
+I run a small homelab with three nodes named **luffy**, **zoro**, and **sanji**, where I experiment with virtualization, containers, Kubernetes, and networking.
 
-- Proxmox VE for virtualization
-- Kubernetes (k3s) cluster
-- Docker and Docker Compose for application deployment
-- Cloudflare Tunnels and Tailscale for connectivity
-- Linux servers, monitoring and DNS services
+My setup includes **Proxmox VE**, **k3s**, **Docker**, **Cloudflare Tunnels**, **Tailscale**, **Pi-hole**, and **Uptime Kuma**. I also use it to deploy and self-host several of my own applications.
 
 ### GitHub activity
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide_rank=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=default" alt="Most used languages" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake.svg" alt="GitHub contribution snake" />
+</picture>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=pthormodsen&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-[portfolio.patreek.no](https://portfolio.patreek.no)
 
 </div>
