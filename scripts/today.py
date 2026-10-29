@@ -197,46 +197,6 @@ def info_lines(stats, today):
         loc,
     ]
 
-    half = 30
-    repos = fill([(". ", "cc"), ("Repos", "key"), (":", "text")],
-                 [(f"{stats['repos']}", "value"), (" {", "text"), ("Contributed", "key"), (": ", "text"),
-                  (f"{stats['contributed']}", "value"), ("}", "text")], half)
-    stars = fill([(" | ", "cc"), ("Stars", "key"), (":", "text")], [(f"{stats['stars']:,}", "value")], WIDTH - half)
-    commits = fill([(". ", "cc"), ("Commits", "key"), (":", "text")], [(f"{stats['commits']:,}", "value")], half)
-    followers = fill([(" | ", "cc"), ("Followers", "key"), (":", "text")],
-                     [(f"{stats['followers']:,}", "value")], WIDTH - half)
-    loc = fill([(". ", "cc"), ("Lines of Code on GitHub", "key"), (":", "text")],
-               [(f"{stats['additions'] - stats['deletions']:,}", "value"), (" ( ", "text"),
-                (f"{stats['additions']:,}++", "add"), (", ", "text"),
-                (f"{stats['deletions']:,}--", "del"), (" )", "text")], WIDTH)
-
-    return [
-        rule("patrik@thormodsen", prefix=""),
-        kv("OS", "macOS"),
-        kv("Uptime", uptime(today)),
-        kv("Host", "HVL, Bergen, Norway"),
-        kv("Kernel", "Computer Engineering Student"),
-        kv("IDE", "IntelliJ IDEA, VS Code"),
-        [],
-        kv("Languages.Programming", "Java, TypeScript, Python, C++"),
-        kv("Languages.Computer", "HTML, CSS, SQL, YAML"),
-        kv("Languages.Real", "Norwegian, English"),
-        [],
-        kv("Hobbies.Software", "Self-hosting, Homelab"),
-        kv("Hobbies.Hardware", "3 nodes: luffy, zoro, sanji"),
-        kv("Hobbies.Other", "Gym, Padel, Gaming"),
-        [],
-        rule("Contact"),
-        kv("Portfolio", "portfolio.patreek.no"),
-        kv("LinkedIn", "pthormodsen"),
-        [],
-        rule("GitHub Stats"),
-        repos + stars,
-        commits + followers,
-        loc,
-    ]
-
-
 def render(theme, ascii_art, lines):
     colors = THEMES[theme]
     rows = ascii_art.splitlines()
