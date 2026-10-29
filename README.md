@@ -1,19 +1,24 @@
-
-
 <div align="center">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer" alt="Patrik Thormodsen" />
 
+<a href="https://portfolio.patreek.no">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <img src="light_mode.svg" alt="Patrik Thormodsen: Computer Engineering student at HVL in Bergen. Java, TypeScript, Python. Self-hosting, homelab, gym, padel and gaming." width="100%" />
+  </picture>
+</a>
 
 ### About me
 
-I'm a Computer Engineering student at HVL in Bergen, Norway. I enjoy coding and spend a lot of my free time working on personal projects.
+I'm a Computer Engineering student at HVL in Bergen, Norway, and I spend a lot of my free time coding and working on personal projects.
 
-I mainly work with Java, Spring Boot, React and TypeScript. I enjoy both building applications and figuring out how to deploy and run them.
+I mostly work with Java, Spring Boot, React and TypeScript, and I like being involved in everything from building the application to getting it up and running.
 
-Over the past year, I have also gotten into self hosting. What started as a bit of experimenting has grown into my own homelab, where I work with Proxmox, Docker and Kubernetes (k3s).
+I've also gotten pretty into self-hosting over the past year. What started as experimenting with a few servers has turned into a homelab with Proxmox, Docker and Kubernetes.
 
-Outside of tech, I enjoy going to the gym, playing padel and spending time with friends. I also enjoy gaming, so I still end up spending quite a bit of time in front of a screen.
+When I'm not sitting in front of a computer, I enjoy going to the gym, playing padel and hanging out with friends. I'm also into gaming, although that usually means spending even more time in front of a screen.
 
 [**Portfolio**](https://portfolio.patreek.no)
 
@@ -86,20 +91,8 @@ It runs on **Proxmox VE**, with a **k3s** cluster (control plane and worker node
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars%2Cissues&hide_rank=true&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&theme=github_dark" alt="GitHub Stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook%2Ccss%2Chtml&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark" alt="Most Used Languages" height="165" />
-</picture>
-
-<br><br>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </picture>
 
 </div>
-

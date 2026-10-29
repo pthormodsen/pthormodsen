@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="1036px" height="600px">
+<style>
+.text {fill: #c9d1d9;}
+.ascii {fill: #c9d1d9;}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.add {fill: #3fb950;}
+.del {fill: #f85149;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1036px" height="600px" fill="#161b22" rx="15"/>
+<text x="30" y="30" class="ascii" font-size="11px" xml:space="preserve">
+<tspan x="30" dy="11"></tspan>
+<tspan x="30" dy="13.75"></tspan>
+<tspan x="30" dy="13.75"></tspan>
+<tspan x="30" dy="13.75"></tspan>
+<tspan x="30" dy="13.75">                     *%#o*x*xx*</tspan>
+<tspan x="30" dy="13.75">                 =xoo*=:':`''-=+++</tspan>
+<tspan x="30" dy="13.75">               ~+-..-+%ooxxx*=-.';+</tspan>
+<tspan x="30" dy="13.75">               %~.:%@@@@@@@@@@&amp;%~..;</tspan>
+<tspan x="30" dy="13.75">              *#;'#@&amp;&amp;&amp;##&amp;&amp;&amp;@&amp;@@@xx;:</tspan>
+<tspan x="30" dy="13.75">              +x-:#&amp;@&amp;&amp;&amp;&amp;#%%%%##@#~%~`</tspan>
+<tspan x="30" dy="13.75">              ;;=`##*=:-~%x`.``-*@-`+</tspan>
+<tspan x="30" dy="13.75">              ;--:#*;;;;o@@oxx%#&amp;@&amp;.*</tspan>
+<tspan x="30" dy="13.75">                -;@@@@&amp;&amp;@@@@@&amp;&amp;@@&amp;&amp;=@%</tspan>
+<tspan x="30" dy="13.75">                %+#&amp;#xo#*=~=x&amp;xooo%@%</tspan>
+<tspan x="30" dy="13.75">                 &amp;##xxx#%x*x%%x%%#@</tspan>
+<tspan x="30" dy="13.75">                   @%x*ox**+*o%xx##</tspan>
+<tspan x="30" dy="13.75">                    #x#@#%oo#&amp;#%*x@</tspan>
+<tspan x="30" dy="13.75">                    o&amp;*%&amp;#%##o*=*%@~~o+</tspan>
+<tspan x="30" dy="13.75">                  +:;@ox*;---~+*%#@+-=**</tspan>
+<tspan x="30" dy="13.75">                **~-'@@##%xx*ooo%&amp;x-~=~+x%x*</tspan>
+<tspan x="30" dy="13.75">            oox*+~~;'~&amp;#%oo++xo%#+`;==+*+**x%%o</tspan>
+<tspan x="30" dy="13.75">         xx*+++=+==~;'+%%o*=+o#%~:~~~~~~~;~~===+**</tspan>
+<tspan x="30" dy="13.75">        %*-:`=:`-:;;~;;%&amp;&amp;####x;:;-:-`-::-:;;;~~~+*</tspan>
+<tspan x="30" dy="13.75">     xx*~~=~=#`;-....-:;+*x*+;-:::'...'`~=::;;;;`:*xoo</tspan>
+<tspan x="30" dy="13.75">    o+~;~=::++;=;;;:-``':~~;;`'...``''::===::;++-====+ox</tspan>
+<tspan x="30" dy="13.75">   o=~=;~::~;==~:;;;~;:::;~;`'-;~:::;;~~=;~;::~=:=+~~~~+o</tspan>
+<tspan x="30" dy="13.75">  o=;=~-:-~:~*;;;;:;~~;~:~*;:=~~:::~;~~~=;;~::;;~+=~~;~;=x</tspan>
+<tspan x="30" dy="13.75"> *+;;~~'--;`+~:;;~~;~~~~;;:;~=;:-;~~~~~~=::;:::`==;;;~~;~=</tspan>
+<tspan x="30" dy="13.75"> x:~;-~`.:-+;-;;;;~~;~~;;;;;=;-:~~~;~~;~=;-;`-.-=::;;;;~;~</tspan>
+<tspan x="30" dy="13.75">++-~;-:-.'~~-;~~;~~;;~;;~~~=;-:;~~;~~~;;;='-`'.~:;;--~;~;;</tspan>
+<tspan x="30" dy="13.75">*=:;;;':'`=:;;;~~;~;;;;::;;--:~~;~;;~~;;;~;.'.-=::`-;~:::~</tspan>
+<tspan x="30" dy="13.75">=~;::;:`'`=;:;;:;;;~;:;-::--:~~;;;~;;;;:-:~-..~-'';~;-:~;;</tspan>
+</text>
+<text x="430" y="30" font-size="16px" xml:space="preserve">
+<tspan x="430" dy="16"><tspan class="cc"></tspan><tspan class="text">patrik@thormodsen</tspan><tspan class="text"> </tspan><tspan class="cc">——————————————————————————————————————————</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">macOS, Fedora</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">22 years, 10 months, 23 days</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">HVL, Bergen, Norway</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="text">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">Computer Engineering | Software Development</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="text">:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">IntelliJ IDEA, VS Code</tspan></tspan>
+<tspan x="430" dy="20"> </tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="text">.</tspan><tspan class="key">Programming</tspan><tspan class="text">:</tspan><tspan class="cc"> . </tspan><tspan class="value">Java, TypeScript, Python, Haskell</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="text">.</tspan><tspan class="key">Web</tspan><tspan class="text">:</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">HTML, CSS, SQL</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="text">.</tspan><tspan class="key">Real</tspan><tspan class="text">:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Norwegian, English</tspan></tspan>
+<tspan x="430" dy="20"> </tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="text">.</tspan><tspan class="key">Backend</tspan><tspan class="text">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Spring Boot, FastAPI, PostgreSQL</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="text">.</tspan><tspan class="key">Frontend</tspan><tspan class="text">:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">React, Vite, Tailwind CSS</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="text">.</tspan><tspan class="key">DevOps</tspan><tspan class="text">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Docker, Proxmox, Kubernetes, Linux</tspan></tspan>
+<tspan x="430" dy="20"> </tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="text">.</tspan><tspan class="key">Software</tspan><tspan class="text">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Coding, Self-hosting, Homelab</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="text">.</tspan><tspan class="key">Hardware</tspan><tspan class="text">:</tspan><tspan class="cc"> ........... </tspan><tspan class="value">Proxmox cluster: luffy, zoro</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="text">.</tspan><tspan class="key">Other</tspan><tspan class="text">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Gym, Padel, Soulslike games</tspan></tspan>
+<tspan x="430" dy="20"> </tspan>
+<tspan x="430" dy="20"><tspan class="cc">- </tspan><tspan class="text">Contact</tspan><tspan class="text"> </tspan><tspan class="cc">——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="text">:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">portfolio.patreek.no</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="text">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">linkedin.com/in/pthormodsen</tspan></tspan>
+<tspan x="430" dy="20"> </tspan>
+<tspan x="430" dy="20"><tspan class="cc">- </tspan><tspan class="text">GitHub Stats</tspan><tspan class="text"> </tspan><tspan class="cc">—————————————————————————————————————————————</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="text">:</tspan><tspan class="cc"> . </tspan><tspan class="value">18</tspan><tspan class="text"> {</tspan><tspan class="key">Contributed</tspan><tspan class="text">: </tspan><tspan class="value">2</tspan><tspan class="text">}</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="text">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="text">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">191</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">9</tspan></tspan>
+<tspan x="430" dy="20"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="text">:</tspan><tspan class="cc"> . </tspan><tspan class="value">370,347</tspan><tspan class="text"> ( </tspan><tspan class="add">382,894++</tspan><tspan class="text">, </tspan><tspan class="del">12,547--</tspan><tspan class="text"> )</tspan></tspan>
+</text>
+</svg>
