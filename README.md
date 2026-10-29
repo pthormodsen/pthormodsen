@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer" alt="Patrik Thormodsen" />
 
-</div>
 
 ### About me
 
@@ -101,4 +100,6 @@ It runs on **Proxmox VE**, with a **k3s** cluster (control plane and worker node
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </picture>
+
+</div>
 
