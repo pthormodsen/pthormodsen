@@ -36,7 +36,7 @@ When I'm not sitting in front of a computer, I enjoy going to the gym, playing p
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cts%2Cjs%2Cpy%2Ccpp%2Chaskell&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp,haskell&theme=dark" alt="Java, TypeScript, JavaScript, Python, C++, Haskell" height="44" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,haskell&theme=dark" alt="Java, TypeScript, JavaScript, Python, Haskell" height="44" />
 </picture>
 
 <br><br>
