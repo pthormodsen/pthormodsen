@@ -1,8 +1,11 @@
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer" alt="Patrik Thormodsen" />
+<a href="https://portfolio.patreek.no">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <img src="light_mode.svg" alt="Patrik Thormodsen: Computer Engineering student at HVL in Bergen. Java, TypeScript, Python. Self-hosting, homelab, gym, padel and gaming." width="100%" />
+  </picture>
+</a>
 
 ### About me
 
@@ -83,17 +86,6 @@ It runs on **Proxmox VE**, with a **k3s** cluster (control plane and worker node
 ### GitHub Activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars%2Cissues&hide_rank=true&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pthormodsen&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&theme=github_dark" alt="GitHub Stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook%2Ccss%2Chtml&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthormodsen&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&theme=github_dark" alt="Most Used Languages" height="165" />
-</picture>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake.svg" />
