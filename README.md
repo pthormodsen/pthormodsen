@@ -1,5 +1,8 @@
 <div align="center">
 
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer" alt="Patrik Thormodsen" />
+
 <a href="https://portfolio.patreek.no">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
