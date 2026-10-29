@@ -4,15 +4,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3300&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&repeat=true&lines=Patrik+Thormodsen;Computer+Engineering+Student;Full-stack+Developer" alt="Patrik Thormodsen" />
 
+</div>
+
 ### About me
 
-I'm a Computer Engineering student at HVL in Bergen, Norway, and I spend a lot of my free time coding and working on personal projects.
+I'm a Computer Engineering student at HVL in Bergen, Norway. I enjoy coding and spend a lot of my free time working on personal projects.
 
-I mostly work with Java, Spring Boot, React and TypeScript, and I like being involved in everything from building the application to getting it up and running.
+I mainly work with Java, Spring Boot, React and TypeScript. I enjoy both building applications and figuring out how to deploy and run them.
 
-I've also gotten pretty into self-hosting over the past year. What started as experimenting with a few servers has turned into a homelab with Proxmox, Docker and Kubernetes.
+Over the past year, I have also gotten into self hosting. What started as a bit of experimenting has grown into my own homelab, where I work with Proxmox, Docker and Kubernetes (k3s).
 
-When I'm not sitting in front of a computer, I enjoy going to the gym, playing padel and hanging out with friends. I'm also into gaming, although that usually means spending even more time in front of a screen.
+Outside of tech, I enjoy going to the gym, playing padel and spending time with friends. I also enjoy gaming, so I still end up spending quite a bit of time in front of a screen.
 
 [**Portfolio**](https://portfolio.patreek.no)
 
@@ -100,4 +102,3 @@ It runs on **Proxmox VE**, with a **k3s** cluster (control plane and worker node
   <img src="https://raw.githubusercontent.com/pthormodsen/pthormodsen/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </picture>
 
-</div>
