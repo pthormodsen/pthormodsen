@@ -156,6 +156,51 @@ def info_lines(stats, today):
     repos = fill([(". ", "cc"), ("Repos", "key"), (":", "text")],
                  [(f"{stats['repos']}", "value"), (" {", "text"), ("Contributed", "key"), (": ", "text"),
                   (f"{stats['contributed']}", "value"), ("}", "text")], half)
+    stars = fill([(" | ", "cc"), ("Stars", "key"), (":", "text")],
+                 [(f"{stats['stars']:,}", "value")], WIDTH - half)
+    commits = fill([(". ", "cc"), ("Commits", "key"), (":", "text")],
+                   [(f"{stats['commits']:,}", "value")], half)
+    followers = fill([(" | ", "cc"), ("Followers", "key"), (":", "text")],
+                     [(f"{stats['followers']:,}", "value")], WIDTH - half)
+    loc = fill([(". ", "cc"), ("Lines of Code on GitHub", "key"), (":", "text")],
+               [(f"{stats['additions'] - stats['deletions']:,}", "value"), (" ( ", "text"),
+                (f"{stats['additions']:,}++", "add"), (", ", "text"),
+                (f"{stats['deletions']:,}--", "del"), (" )", "text")], WIDTH)
+
+    return [
+        rule("patrik@thormodsen", prefix=""),
+        kv("OS", "macOS, Fedora"),
+        kv("Uptime", uptime(today)),
+        kv("Host", "HVL, Bergen, Norway"),
+        kv("Kernel", "Computer Engineering | Software Development"),
+        kv("IDE", "IntelliJ IDEA, VS Code"),
+        [],
+        kv("Languages.Programming", "Java, TypeScript, Python, Haskell"),
+        kv("Languages.Web", "HTML, CSS, SQL"),
+        kv("Languages.Real", "Norwegian, English"),
+        [],
+        kv("Stack.Backend", "Spring Boot, FastAPI, PostgreSQL"),
+        kv("Stack.Frontend", "React, Vite, Tailwind CSS"),
+        kv("Stack.DevOps", "Docker, Proxmox, Kubernetes, Linux"),
+        [],
+        kv("Hobbies.Software", "Coding, Self-hosting, Homelab"),
+        kv("Hobbies.Hardware", "Proxmox cluster: luffy, zoro"),
+        kv("Hobbies.Other", "Gym, Padel, Soulslike games"),
+        [],
+        rule("Contact"),
+        kv("Portfolio", "portfolio.patreek.no"),
+        kv("LinkedIn", "linkedin.com/in/pthormodsen"),
+        [],
+        rule("GitHub Stats"),
+        repos + stars,
+        commits + followers,
+        loc,
+    ]
+
+    half = 30
+    repos = fill([(". ", "cc"), ("Repos", "key"), (":", "text")],
+                 [(f"{stats['repos']}", "value"), (" {", "text"), ("Contributed", "key"), (": ", "text"),
+                  (f"{stats['contributed']}", "value"), ("}", "text")], half)
     stars = fill([(" | ", "cc"), ("Stars", "key"), (":", "text")], [(f"{stats['stars']:,}", "value")], WIDTH - half)
     commits = fill([(". ", "cc"), ("Commits", "key"), (":", "text")], [(f"{stats['commits']:,}", "value")], half)
     followers = fill([(" | ", "cc"), ("Followers", "key"), (":", "text")],
