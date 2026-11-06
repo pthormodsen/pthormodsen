@@ -14,7 +14,7 @@
 
 I'm a Computer Engineering student at HVL in Bergen, Norway. I enjoy programming and spend a lot of my free time working on personal projects.
 I mainly work with Java, Spring Boot, React and TypeScript, and enjoy both developing applications and figuring out how to deploy and run them.
-Lately, I've also been getting into self-hosting and running my own homelab with Proxmox, Docker and Kubernetes.
+Lately, I've also been getting into self-hosting and running my own homelab with Proxmox, Docker and Kubernetes (k3s).
 Outside of programming, I enjoy going to the gym, playing padel and spending time with friends. I'm also into gaming, especially Soulslike games.
 
 [**Portfolio**](https://portfolio.patreek.no)
