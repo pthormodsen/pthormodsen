@@ -10,6 +10,8 @@
   </picture>
 </a>
 
+</div>
+
 ### About me
 
 I'm a Computer Engineering student at HVL in Bergen, Norway. I enjoy programming and spend a lot of my free time working on personal projects.
@@ -32,7 +34,7 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cts%2Cjs%2Cpy%2Ccpp%2Chaskell&theme=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cts%2Cjs%2Cpy%2Chaskell&theme=light" />
   <img src="https://skillicons.dev/icons?i=java,ts,js,py,haskell&theme=dark" alt="Java, TypeScript, JavaScript, Python, Haskell" height="44" />
 </picture>
 
@@ -60,8 +62,8 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
   </picture>
   <img src="https://cdn.simpleicons.org/proxmox/E57000" height="44" alt="Proxmox VE" />
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cgit&theme=light" />
-    <img src="https://skillicons.dev/icons?i=cloudflare,git&theme=dark" alt="Cloudflare, Git" height="44" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cgithubactions%2Cgit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,git&theme=dark" alt="Cloudflare, GitHub Actions, Git" height="44" />
   </picture>
 </p>
 
@@ -77,21 +79,23 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 | **Phishing URL Detector** | Machine learning URL classifier with FastAPI and a React frontend. | [Demo](https://phishing.patreek.no) · [Code](https://github.com/pthormodsen/PhishingURL) |
 | **Chess** | Java chess application with Stockfish integration. | [Demo](https://chess.patreek.no) · [Code](https://github.com/pthormodsen/Chess) |
 
+All demos are self-hosted on my own k3s cluster.
+
 ### Homelab
 
-I run a small homelab on **Proxmox VE** with three machines: **zoro**, **sanji** and **luffy**. Zoro and sanji are always on, luffy is my loudest pc and only gets turned on for game servers.
+I run a small homelab on **Proxmox VE** with three machines: **zoro**, **sanji** and **luffy**. Zoro and sanji are always on, luffy is my loudest PC and only gets turned on for game servers.
 
 Most of my projects run on a **k3s** cluster across zoro and sanji, with two replicas of each app spread over both machines, so one of them can go down without the sites going offline. Traffic comes in through **Cloudflare Tunnels**, images are built with **GitHub Actions** and stored on **GHCR**, and I use **Tailscale** for remote access and **Uptime Kuma** for monitoring.
 
 The databases still only run on one machine, so next up is adding a small third node and setting up replicated Postgres, so those can survive a machine going down too.
-
-[How I set it up →](https://portfolio.patreek.no/blog/moving-my-homelab-to-k3s)
 
 <p align="center">
   <img src="assets/proxmox.png" alt="Proxmox cluster with zoro, sanji and luffy" width="100%" />
   <br><br>
   <img src="assets/k9s.png" alt="k9s showing every app running as two replicas across both nodes" width="100%" />
 </p>
+
+[How I set it up →](https://portfolio.patreek.no/blog/moving-my-homelab-to-k3s)
 
 ### GitHub Activity
 
