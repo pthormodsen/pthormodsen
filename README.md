@@ -65,14 +65,19 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 
 ### <h3 align="center">Featured Projects</h3>
 
+<div align="center">
+
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **SeatSense** | IoT-based seat occupancy monitoring using ESP32 sensors and React. | [Demo](https://seatsense.patreek.no) |
+| **SeatSense** | IoT-based seat occupancy monitoring using ESP32 sensors and React. | [Demo](https://seatsense.patreek.no) · [Code](https://github.com/pthormodsen/SeatSense) |
 | **QuizApp** | Full-stack study application built with Spring Boot and React. | [Demo](https://quiz.patreek.no) · [Code](https://github.com/pthormodsen/QuizApp) |
 | **Phishing URL Detector** | Machine learning URL classifier with FastAPI and a React frontend. | [Demo](https://phishing.patreek.no) · [Code](https://github.com/pthormodsen/PhishingURL) |
 | **Chess** | Java chess application with Stockfish integration. | [Demo](https://chess.patreek.no) · [Code](https://github.com/pthormodsen/Chess) |
+| **Portfolio** | My personal site and blog, with a typing test and shared leaderboard. | [Site](https://portfolio.patreek.no) · [Code](https://github.com/pthormodsen/portfolio) |
 
 All demos are self-hosted on my own k3s cluster.
+
+</div>
 
 ---
 
