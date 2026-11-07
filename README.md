@@ -31,29 +31,23 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 
 **Languages**
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cts%2Cjs%2Cpy%2Chaskell&theme=light" />
   <img src="https://skillicons.dev/icons?i=java,ts,js,py,haskell&theme=dark" alt="Java, TypeScript, JavaScript, Python, Haskell" height="44" />
 </picture>
 
-<br><br>
+<br>
 
 **Frameworks & Databases**
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring%2Creact%2Cfastapi%2Cpostgres%2Ctailwind&theme=light" />
   <img src="https://skillicons.dev/icons?i=spring,react,fastapi,postgres,tailwind&theme=dark" alt="Spring Boot, React, FastAPI, PostgreSQL, Tailwind CSS" height="44" />
 </picture>
 
-<br><br>
+<br>
 
 **Infrastructure & Tools**
-
-<br>
 
 <p>
   <picture>
@@ -68,7 +62,6 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 </p>
 
 </div>
-
 
 ### Featured Projects
 
