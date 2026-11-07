@@ -79,9 +79,19 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 
 ### Homelab
 
-I run a small homelab with three nodes named **luffy**, **zoro**, and **sanji**, where I experiment with infrastructure and self-host several of my own applications.
+I run a small homelab on **Proxmox VE** with three machines: **zoro**, **sanji** and **luffy**. Zoro and sanji are always on, luffy is my loudest pc and only gets turned on for game servers.
 
-It runs on **Proxmox VE**, with a **k3s** cluster (control plane and worker nodes), **Docker**, and my own network services: **Cloudflare Tunnels**, **Tailscale**, **Pi-hole**, and **Uptime Kuma** for monitoring.
+Most of my projects run on a **k3s** cluster across zoro and sanji, with two replicas of each app spread over both machines, so one of them can go down without the sites going offline. Traffic comes in through **Cloudflare Tunnels**, images are built with **GitHub Actions** and stored on **GHCR**, and I use **Tailscale** for remote access and **Uptime Kuma** for monitoring.
+
+The databases still only run on one machine, so next up is adding a small third node and setting up replicated Postgres, so those can survive a machine going down too.
+
+[How I set it up →](https://portfolio.patreek.no/blog/moving-my-homelab-to-k3s)
+
+<p align="center">
+  <img src="assets/proxmox.png" alt="Proxmox cluster with zoro, sanji and luffy" width="100%" />
+  <br><br>
+  <img src="assets/k9s.png" alt="k9s showing every app running as two replicas across both nodes" width="100%" />
+</p>
 
 ### GitHub Activity
 
