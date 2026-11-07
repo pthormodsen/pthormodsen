@@ -12,20 +12,18 @@
 
 </div>
 
-### <h3 align="center">About me</h3>
+<h3 align="center">About me</h3>
 
 I'm a Computer Engineering student at HVL in Bergen, Norway. I enjoy programming and spend a lot of my free time working on personal projects.
 I mainly work with Java, Spring Boot, React and TypeScript, and enjoy both developing applications and figuring out how to deploy and run them.
 Lately, I've also been getting into self-hosting and running my own homelab with Proxmox, Docker and Kubernetes (k3s).
 Outside of programming, I enjoy going to the gym, playing padel and spending time with friends. I'm also into gaming, especially Soulslike games.
 
-[**Portfolio**](https://portfolio.patreek.no)
-
+<p align="center"><a href="https://portfolio.patreek.no"><b>Portfolio</b></a></p>
 
 ---
 
-
-### <h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -63,7 +61,9 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 
 </div>
 
-### <h3 align="center">Featured Projects</h3>
+---
+
+<h3 align="center">Featured Projects</h3>
 
 <div align="center">
 
@@ -81,7 +81,7 @@ All demos are self-hosted on my own k3s cluster.
 
 ---
 
-### <h3 align="center">Homelab</h3>
+<h3 align="center">Homelab</h3>
 
 I run a small homelab on **Proxmox VE** with three machines: **zoro**, **sanji** and **luffy**. Zoro and sanji are always on, luffy is my loudest PC and only gets turned on for game servers.
 
@@ -95,9 +95,11 @@ The databases still only run on one machine, so next up is adding a small third 
   <img src="assets/k9s.png" alt="k9s showing every app running as two replicas across both nodes" width="100%" />
 </p>
 
-[How I set it up →](https://portfolio.patreek.no/blog/moving-my-homelab-to-k3s)
+<p align="center"><a href="https://portfolio.patreek.no/blog/moving-my-homelab-to-k3s">How I set it up →</a></p>
 
-### <h3 align="center">GitHub Activity</h3>
+---
+
+<h3 align="center">GitHub Activity</h3>
 
 <div align="center">
 
