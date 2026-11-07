@@ -12,7 +12,7 @@
 
 </div>
 
-### About me
+### <h3 align="center">About me</h3>
 
 I'm a Computer Engineering student at HVL in Bergen, Norway. I enjoy programming and spend a lot of my free time working on personal projects.
 I mainly work with Java, Spring Boot, React and TypeScript, and enjoy both developing applications and figuring out how to deploy and run them.
@@ -25,7 +25,7 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 ---
 
 
-### Tech Stack
+### <h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 
 </div>
 
-### Featured Projects
+### <h3 align="center">Featured Projects</h3>
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
@@ -74,7 +74,9 @@ Outside of programming, I enjoy going to the gym, playing padel and spending tim
 
 All demos are self-hosted on my own k3s cluster.
 
-### Homelab
+---
+
+### <h3 align="center">Homelab</h3>
 
 I run a small homelab on **Proxmox VE** with three machines: **zoro**, **sanji** and **luffy**. Zoro and sanji are always on, luffy is my loudest PC and only gets turned on for game servers.
 
@@ -90,7 +92,7 @@ The databases still only run on one machine, so next up is adding a small third 
 
 [How I set it up →](https://portfolio.patreek.no/blog/moving-my-homelab-to-k3s)
 
-### GitHub Activity
+### <h3 align="center">GitHub Activity</h3>
 
 <div align="center">
 
